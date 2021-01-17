@@ -1,0 +1,27 @@
+{
+  "name": "xprsschkpnt",
+  "version": "1.0.0",
+  "description": "tree pages express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amine040616/Express.git"
+  },
+  "keywords": [
+    "express",
+    "noview"
+  ],
+  "author": "AKA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amine040616/Express/issues"
+  },
+  "homepage": "https://github.com/Amine040616/Express#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "express": "^4.17.1"
+  }
+}
